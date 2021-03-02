@@ -5,6 +5,8 @@
 
 郑老师版本：[B站链接](https://www.bilibili.com/video/BV1JV411t7ow)
 
+教材：[中文版](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/计算机网络-自顶向下方法第七版.pdf) [英文版](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/Kurose%2C%20James%20F._Ross%2C%20Keith%20W%20-%20Computer%20networking_%20a%20top-down%20approach-Pearson%20(2017).pdf)
+
 #### 课程目标
 
 1. 计算机网络理论基础
