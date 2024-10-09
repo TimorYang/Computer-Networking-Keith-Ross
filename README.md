@@ -25,6 +25,6 @@
 ### 资源：
 
  * [中文版](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/计算机网络-自顶向下方法第七版.pdf) 
- * 中文版 扫描 第8版
+ * [中文版 扫描 第8版](https://github.com/TimorYang/Computer-Networking-Keith-Ross/releases/tag/1.0.0)
  * [英文版 7th Edition (2017)](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/Kurose%2C%20James%20F._Ross%2C%20Keith%20W%20-%20Computer%20networking_%20a%20top-down%20approach-Pearson%20(2017).pdf) 
  * [英文版 8th Edition (2021)](https://github.com/TimorYang/Computer-Networking-Keith-Ross/blob/main/book/Computer%20Networking_%20A%20Top-Down%20Approach%2C%20Global%20Edition%2C%208th%20Edition.pdf)
