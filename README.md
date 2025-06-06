@@ -7,6 +7,7 @@
 
 * 课程网站：http://staff.ustc.edu.cn/~qzheng/teaching.html
 * B站链接：https://www.bilibili.com/video/BV1JV411t7ow
+* 课件: https://github.com/TimorYang/Computer-Networking-Keith-Ross/tree/main/Advanced-computer-networks
 * 教材：计算机网络（原书第7版）: 自顶向下方法  ISBN: 9787111599715
 
 ### 马萨诸塞大学
